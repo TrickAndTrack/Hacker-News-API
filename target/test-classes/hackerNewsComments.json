@@ -1,0 +1,52 @@
+[
+  {
+    "userName": "pks",
+    "userAge": 9,
+    "comment": "What about Scalability principles in your design?"
+  },
+  {
+    "userName": "bob",
+    "userAge": 12,
+    "comment": "Andy, I saw your short demo at Google I/O and I must say Hinge looks great! Are you planning on having a Linux port as well, or is too early to talk about that?"
+  },
+  {
+    "userName": "ralph",
+    "userAge": 5,
+    "comment": "Just be wary of design trade-offs. Best of luck to you!"
+  },
+  {
+    "userName": "zaidp",
+    "userAge": 5,
+    "comment": "This looks like a good competitor for Files by Google. I hope your app makes it to the mainstream."
+  },
+  {
+    "userName": "princeton",
+    "userAge": 2,
+    "comment": "The only problem is dependency on an external driver! The driver should come prepackaged with the hardware with automatic update support!"
+  },
+  {
+    "userName": "george",
+    "userAge": 7,
+    "comment": "This is definitely a data privacy issue! You must hire a DevOps major to wrap his arms around this!"
+  },
+  {
+    "userName": "paresh",
+    "userAge": 13,
+    "comment": "What sort of encryption techniques does your software employ?"
+  },
+  {
+    "userName": "zaidf",
+    "userAge": 6,
+    "comment": "Talk to business people like a non-technical person and software design to techies"
+  },
+  {
+    "userName": "saxena",
+    "userAge": 1,
+    "comment": "There must be a package manager for Windows too just like Brew! Let's put in a request to Microsoft!"
+  },
+  {
+    "userName": "indra",
+    "userAge": 4,
+    "comment": "The solution is good, but far from being cloud-ready!"
+  }
+]

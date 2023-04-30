@@ -1,0 +1,9 @@
+com\hackernewapi\util\CommonUtilTest.class
+com\hackernewapi\helper\TestArtifacts$2.class
+com\hackernewapi\helper\TestArtifacts$3.class
+com\hackernewapi\helper\TestUtil.class
+com\hackernewapi\helper\TestArtifacts.class
+com\hackernewapi\repository\HackerNewsApiServiceRepositoryTest.class
+com\hackernewapi\controller\HackerApiServiceControllerTest.class
+com\hackernewapi\service\HackerApiServiceTest.class
+com\hackernewapi\helper\TestArtifacts$1.class
